@@ -730,7 +730,7 @@ gtag('config', 'AW-17061287131');</script>
                           </a></td>
                         <td>
                           <div class="players-cell status-cell">
-                            <div class="player-status player-active">ACTIVE</div>
+                            <div class="player-status player-starter">STARTER</div>
                           </div>
                         </td>
                         <td>
@@ -752,7 +752,7 @@ gtag('config', 'AW-17061287131');</script>
                           </a></td>
                         <td>
                           <div class="players-cell status-cell">
-                            <div class="player-status player-active">ACTIVE</div>
+                            <div class="player-status player-starter">STARTER</div>
                           </div>
                         </td>
                         <td>
