@@ -464,7 +464,7 @@ gtag('config', 'AW-17061287131');</script>
                 <div class="bodyshot-team g-grid"><a href="/player/3741/niko" class="col-custom" title="NiKo">
                     <div class="overlayImageFrame"><img alt="Image of Counter-Strike player NiKo" src="https://img-cdn.hltv.org/playerbodyshot/hFdoeF_NHLFJClkIlDuUIE.png?ixlib=java-2.1.0&w=400&s=d443bd16021f274f5d092446517f2111" class="bodyshot-team-img" title="Vladimir 'ikauser' Semёnov">
                       <div class="text-ellipsis nickname-container">
-                        <div class="playerFlagName"><span class="gtSmartphone-only"><img   class="none </span><span class="text-ellipsis bold"></span>ikauser</div>
+                        <div class="playerFlagName"><span class="gtSmartphone-only"><img alt="Russia" src="https://www.hltv.org/img/static/flags/30x20/RU.gif" class="flag" title="Russia"> </span><span class="text-ellipsis bold">ikauser</span></div>
                       </div>
                     </div>
                   </a><a href="/player/12018/teses" class="col-custom" title="TeSeS">
@@ -482,7 +482,7 @@ gtag('config', 'AW-17061287131');</script>
                   </a><a href="/player/19677/kyxsan" class="col-custom" title="kyxsan">
                     <div class="overlayImageFrame"><img alt="Image of Counter-Strike player kyxsan" class="bodyshot-team-img" title="Bulat 'wliiik' Tashiev" src="https://img-cdn.hltv.org/playerbodyshot/O2mYq7Td1la8B8xGC-dYr8.png?ixlib=java-2.1.0&w=400&s=a1921e5df7d31e47aadc050ab4c0ff55">
                       <div class="text-ellipsis nickname-container">
-                        <div class="playerFlagName"><span class="gtSmartphone-only"><img class="none"></span><span class="text-ellipsis bold">wliiik</span></div>
+                        <div class="playerFlagName"><span class="gtSmartphone-only"><img alt="Russia" src="https://www.hltv.org/img/static/flags/30x20/RU.gif" class="flag" title="Russia"> </span><span class="text-ellipsis bold">wliiik</span></div>
                       </div>
                     </div>
                   </a><a href="/player/24177/kyousuke" class="col-custom" title="kyousuke">
