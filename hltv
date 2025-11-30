@@ -26,7 +26,7 @@
     <script type="text/javascript" src="https://resources.hltv.org/hltv.js/a65ab71aa94947529cbf19ab833899a3.js"></script>
     <script type="text/javascript" src="/js/ht.pageview-props.tagged-events.js" data-domain="hltv.org" data-api="/ht/event" defer="defer"></script>
     <script type="text/javascript" src="https://resources.hltv.org/hltv-fusionchart.js/cff0559dec4127b68d4c88b10e3bf39a.js" async="async"></script>
-    <title>Falcons team overview | HLTV.org</title>
+    <title>Ashalet team overview | HLTV.org</title>
     <link href="https://www.hltv.org/team/11283/falcons" rel="canonical">
     <meta name="description" content="Get the complete overview of Falcons's current lineup, upcoming matches, recent results and much more">
     <meta property="og:title" content="HLTV.org - The home of competitive Counter-Strike">
@@ -462,9 +462,9 @@ gtag('config', 'AW-17061287131');</script>
             <div class="teamProfile">
               <div class="bodyshot-team-bg">
                 <div class="bodyshot-team g-grid"><a href="/player/3741/niko" class="col-custom" title="NiKo">
-                    <div class="overlayImageFrame"><img alt="Image of Counter-Strike player NiKo" src="https://www.hltv.org/img/static/player/player_silhouette.png" class="bodyshot-team-img" title="?">
+                    <div class="overlayImageFrame"><img alt="Image of Counter-Strike player NiKo" src="https://img-cdn.hltv.org/playerbodyshot/hFdoeF_NHLFJClkIlDuUIE.png?ixlib=java-2.1.0&w=400&s=d443bd16021f274f5d092446517f2111" class="bodyshot-team-img" title="Vladimir 'ikauser' Semёnov">
                       <div class="text-ellipsis nickname-container">
-                        <div class="playerFlagName"><span class="gtSmartphone-only"><img   class="none </span><span class="text-ellipsis bold"></span>?</div>
+                        <div class="playerFlagName"><span class="gtSmartphone-only"><img   class="none </span><span class="text-ellipsis bold"></span>ikauser</div>
                       </div>
                     </div>
                   </a><a href="/player/12018/teses" class="col-custom" title="TeSeS">
@@ -480,9 +480,9 @@ gtag('config', 'AW-17061287131');</script>
                       </div>
                     </div>
                   </a><a href="/player/19677/kyxsan" class="col-custom" title="kyxsan">
-                    <div class="overlayImageFrame"><img alt="Image of Counter-Strike player kyxsan" class="bodyshot-team-img" title="?" src="https://www.hltv.org/img/static/player/player_silhouette.png">
+                    <div class="overlayImageFrame"><img alt="Image of Counter-Strike player kyxsan" class="bodyshot-team-img" title="Bulat 'wliiik' Tashiev" src="https://img-cdn.hltv.org/playerbodyshot/O2mYq7Td1la8B8xGC-dYr8.png?ixlib=java-2.1.0&w=400&s=a1921e5df7d31e47aadc050ab4c0ff55">
                       <div class="text-ellipsis nickname-container">
-                        <div class="playerFlagName"><span class="gtSmartphone-only"><img class="none"></span><span class="text-ellipsis bold">?</span></div>
+                        <div class="playerFlagName"><span class="gtSmartphone-only"><img class="none"></span><span class="text-ellipsis bold">wliiik</span></div>
                       </div>
                     </div>
                   </a><a href="/player/24177/kyousuke" class="col-custom" title="kyousuke">
@@ -516,7 +516,7 @@ gtag('config', 'AW-17061287131');</script>
                   </div>
                   <div class="profile-team-stat"><b>Weeks in top30 for core</b><span class="right">0</span></div>
                   <div class="profile-team-stat"><b>Average player age</b><span class="right">15.6</span></div>
-                  <div class="profile-team-stat"><b>Coach</b><a href="/coach/21/zonic" class="a-reset right"><img alt="Russia" src="https://www.hltv.org/img/static/flags/30x20/RU.gif" class="flag" title="Russia"> Saveliy <span class="bold a-default">'T3SER'</span></a></div>
+                  <div class="profile-team-stat"><b>Coach</b><a href="/coach/21/zonic" class="a-reset right"><img alt="Russia" src="https://www.hltv.org/img/static/flags/30x20/RU.gif" class="flag" title="Russia"> Mark <span class="bold a-default">'xdwhoo' Potapov</span></a></div>
                 </div>
               </div>
               <div class="trophySection">
@@ -618,9 +618,9 @@ gtag('config', 'AW-17061287131');</script>
                     <tbody>
                       <tr>
                         <td class="playersBox-first-cell"><a href="/coach/21/zonic" class="playersBox-playernick-image a-reset">
-                            <div class="playersBox-img-wrapper"><img alt="Image of zonic" src="https://d3dwep9z8m8y9r.cloudfront.net/players/2023/08/players-4823/navi_portrait/40865/conversions/b1ad3_830x1044-webp.webp" class="playerBox-bodyshot" title="Danny 'zonic' Sørensen"></div>
-                            <div class="players-cell playersBox-playernick text-ellipsis"><img alt="Denmark" src="https://www.hltv.org/img/static/flags/30x20/RU.gif" class="gtSmartphone-only flag" title="Russia">
-                              <div class="text-ellipsis">T3SER</div>
+                            <div class="playersBox-img-wrapper"><img alt="Image of zonic" src="https://img-cdn.hltv.org/playerbodyshot/t6zrib244keMlNX0OLpxg8.png?ixlib=java-2.1.0&w=400&s=3ad26ac96d655830c66213754c23568f" class="playerBox-bodyshot" title="Danny 'zonic' Sørensen"></div>
+                            <div class="players-cell playersBox-playernick text-ellipsis"><img alt="Russia" src="https://www.hltv.org/img/static/flags/30x20/RU.gif" class="gtSmartphone-only flag" title="Russia">
+                              <div class="text-ellipsis">xdwhoo</div>
                             </div>
                           </a></td>
                         <td>
@@ -721,50 +721,6 @@ gtag('config', 'AW-17061287131');</script>
                           <div class="players-cell rating-cell ratingNeutral">0.00</div>
                         </td>
                       </tr>
-                      <tr>
-                        <td class="playersBox-first-cell"><a href="/player/9032/magisk" class="playersBox-playernick-image a-reset">
-                            <div class="playersBox-img-wrapper"><img alt="Image of Counter-Strike player Magisk" src="https://img-cdn.hltv.org/playerbodyshot/sEwjjWjn36V9aqH6i07aFx.png?ixlib=java-2.1.0&w=400&s=14a4ef10ad0fcd029d9b8872437a697e" class="playerBox-bodyshot" title="Emil 'Magisk' Reif"></div>
-                            <div class="players-cell playersBox-playernick text-ellipsis"><img alt="Denmark" src="https://www.hltv.org/img/static/flags/30x20/RU.gif" class="gtSmartphone-only flag" title="Russia">
-                              <div class="text-ellipsis">shooterkds</div>
-                            </div>
-                          </a></td>
-                        <td>
-                          <div class="players-cell status-cell">
-                            <div class="player-status player-benched">INACTIVE</div>
-                          </div>
-                        </td>
-                        <td>
-                          <div class="players-cell center-cell opacity-cell">9 months</div>
-                        </td>
-                        <td>
-                          <div class="players-cell center-cell opacity-cell">40</div>
-                        </td>
-                        <td>
-                          <div class="players-cell rating-cell ratingPositive">2.72</div>
-                        </td>
-                      </tr>
-                      <tr>
-                        <td class="playersBox-first-cell"><a href="/player/17306/degster" class="playersBox-playernick-image a-reset">
-                            <div class="playersBox-img-wrapper"><img alt="Image of Counter-Strike player degster" src="https://img-cdn.hltv.org/playerbodyshot/t6zrib244keMlNX0OLpxg8.png?ixlib=java-2.1.0&w=400&s=3ad26ac96d655830c66213754c23568f" class="playerBox-bodyshot" title="Abdul 'degster' Gasanov"></div>
-                            <div class="players-cell playersBox-playernick text-ellipsis"><img alt="Russia" src="https://www.hltv.org/img/static/flags/30x20/RU.gif" class="gtSmartphone-only flag" title="Russia">
-                              <div class="text-ellipsis">xdwhoo</div>
-                            </div>
-                          </a></td>
-                        <td>
-                          <div class="players-cell status-cell">
-                            <div class="player-status player-benched">INACTIVE</div>
-                          </div>
-                        </td>
-                        <td>
-                          <div class="players-cell center-cell opacity-cell">9 months</div>
-                        </td>
-                        <td>
-                          <div class="players-cell center-cell opacity-cell">35</div>
-                        </td>
-                        <td>
-                          <div class="players-cell rating-cell ratingPositive">1.10</div>
-                        </td>
-                      </tr>
 <tr>
                         <td class="playersBox-first-cell"><a href="/player/17306/degster" class="playersBox-playernick-image a-reset">
                             <div class="playersBox-img-wrapper"><img alt="Image of Counter-Strike player degster" src="https://img-cdn.hltv.org/playerbodyshot/O2mYq7Td1la8B8xGC-dYr8.png?ixlib=java-2.1.0&w=400&s=a1921e5df7d31e47aadc050ab4c0ff55" class="playerBox-bodyshot" title="Abdul 'degster' Gasanov"></div>
@@ -774,7 +730,7 @@ gtag('config', 'AW-17061287131');</script>
                           </a></td>
                         <td>
                           <div class="players-cell status-cell">
-                            <div class="player-status player-benched">INACTIVE</div>
+                            <div class="player-status player-active">ACTIVE</div>
                           </div>
                         </td>
                         <td>
@@ -796,7 +752,7 @@ gtag('config', 'AW-17061287131');</script>
                           </a></td>
                         <td>
                           <div class="players-cell status-cell">
-                            <div class="player-status player-benched">INACTIVE</div>
+                            <div class="player-status player-active">ACTIVE</div>
                           </div>
                         </td>
                         <td>
